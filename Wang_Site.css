@@ -1,0 +1,71 @@
+#indent {
+   text-indent: 30px;
+}
+
+#navlistsettings {
+    display: inline;
+     padding: 15px 50px;
+     margin: 3px 20px;
+     
+}
+    #navulsettings {
+        padding: 20px;
+    }
+#center {
+    text-align: center;
+}
+#navanchor {
+    display: inline-block;
+    width: 110px;
+}
+
+.adisplay {
+    display: inline-block;
+    height: 40px;
+}
+
+
+#middle {
+    align-item: center;
+}
+
+.greenheadercolor {
+    color: #359964;
+    font-weight: bold;
+     
+}
+
+.projdatesize {
+    font-size: 14px;
+}
+.imgframe {
+    border-style: outset;
+    border-color:#359964;
+    border-width: 8px;
+}
+
+hr {
+    border-color:#259e5e;
+    border-width: 1px;
+    margin: 0px;
+}
+
+.thinimgframe {
+    border-style: outset;
+    border-color:#359964;
+    border-width: 4px;
+    padding: 0px;
+}
+
+.navcolor {
+    background-color:#c7e8a7;
+}
+
+.imgmarginhome {
+    margin-top: 18px;
+}
+
+.imghomesize {
+    width: 300px;
+    height: 400px;
+}
