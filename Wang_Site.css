@@ -45,20 +45,20 @@
 }
 
 hr {
-    border-color:#259e5e;
-    border-width: 1px;
+    border-color:#82714b;
+    border-width: 3px;
     margin: 0px;
 }
 
 .thinimgframe {
     border-style: outset;
-    border-color:#359964;
+    border-color:#ddcb7e;
     border-width: 4px;
     padding: 0px;
 }
 
 .navcolor {
-    background-color:#c7e8a7;
+    background-color:#5b5139;
 }
 
 .imgmarginhome {
@@ -68,4 +68,12 @@ hr {
 .imghomesize {
     width: 300px;
     height: 400px;
+}
+
+a {
+    color:#c1ad7f ;
+}
+
+body {
+    background-color:#eadda8 ;
 }

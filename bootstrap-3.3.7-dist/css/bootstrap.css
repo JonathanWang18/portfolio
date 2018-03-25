@@ -4096,8 +4096,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-  color: #fff;
-  background-color: #359964;
+  color: #302f2a;
+  background-color: #c1ad7f;
 }
 .nav-stacked > li {
   float: none;
@@ -4960,7 +4960,7 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #15c49d;
+  background-color: #eadda8;
 }
 .jumbotron h1,
 .jumbotron .h1 {
