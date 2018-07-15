@@ -3989,6 +3989,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .nav > li > a:focus {
   text-decoration: none;
   background-color: #eee;
+  color: #444444;
 }
 .nav > li.disabled > a {
   color: #777;
@@ -4089,16 +4090,23 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .nav-pills > li > a {
   border-radius: 4px;
+  color: #fff;
+  
 }
+
 .nav-pills > li + li {
   margin-left: 2px;
 }
+  
+
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
-  color: #302f2a;
-  background-color: #c1ad7f;
+  color: #3a393a;
+  background-color: #f1eff2;
+  
 }
+
 .nav-stacked > li {
   float: none;
 }
@@ -4943,7 +4951,7 @@ a.badge:focus {
 }
 .list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
-  color: #337ab7;
+  color: #337ab7 ;
   background-color: #fff;
 }
 .list-group-item > .badge {
@@ -4960,7 +4968,6 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eadda8;
 }
 .jumbotron h1,
 .jumbotron .h1 {
