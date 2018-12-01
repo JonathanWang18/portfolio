@@ -5,14 +5,27 @@
 #navlistsettings {
     display: inline;
      padding:  0px;
-     margin: 3px 10px;
-     
+     margin: 0px 30px 10px;
+}
+.right {
+    text-align: left;
+}
+.fullopacity {
+    opacity: 1;
+}
+.navsize {
+    width: 100%;
 }
 #navulsettings {
     padding: 20px;
     }
 #center {
     text-align: center;
+}
+
+.nomargin {
+    margin: 0 auto;
+    text-align:center;
 }
 #navanchor {
     display: inline-block;
@@ -29,7 +42,7 @@
 }
 
 #middle {
-    align-item: center;
+    text-align: center;
 }
      
 
@@ -65,17 +78,37 @@
     margin-left: 5px;
     text-align: left;
     margin: 0px;
-    padding-left: 20%;
+    padding-left: 15%;
     width: 100%;
-
-    
+}
+.mainsettings {
+    background-image: url(Images/backgroundpic.jpg);
+    width: 100%;
+    height: 100%;
+}
+.mainsettings2 {
+     background-image: url(Images/citypic.jpg);
+     width: 100%;
+     height: 100%;
 }
 
-body {
-    background-color:#d2fff5 ;
+.mainsettings3 {
+    background-image: url(Images/notebookpic.jpg);
+     width: 100%;
+     height: 100%;
 }
 
-    
+.mainsettings4 {
+     background-image: url(Images/blackdesignpic.gif);
+     width: 100%;
+     height: 100%;
+}
+
+.mainsettings5 {
+    background-image: url(Images/largecity.jpeg);
+    width: 100%;
+    height: 1080px;
+}
 
 .navhead {
     background-color: #f1eff2;
@@ -85,3 +118,14 @@ nav-pill: hover {
     color:black !important;
 }
 
+.jumbosettings {
+   margin-top: 100px;
+ 
+}
+
+.whitetext {
+    color: white;
+}
+.email:hover {
+    color: black;
+}

@@ -4943,7 +4943,7 @@ a.label:focus {
   top: 0;
   padding: 1px 5px;
 }
-a.badge:hover,
+a.badge:hover, 
 a.badge:focus {
   color: #fff;
   text-decoration: none;
@@ -4966,8 +4966,10 @@ a.badge:focus {
 .jumbotron {
   padding-top: 30px;
   padding-bottom: 30px;
-  margin-bottom: 30px;
+  margin: 30px;
   color: inherit;
+  background-color: white;
+  opacity: .9;
 }
 .jumbotron h1,
 .jumbotron .h1 {
@@ -4986,6 +4988,9 @@ a.badge:focus {
   padding-right: 15px;
   padding-left: 15px;
   border-radius: 6px;
+  align-items: center;
+  justify-content: center;
+ 
 }
 .jumbotron .container {
   max-width: 100%;
